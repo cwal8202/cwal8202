@@ -5,7 +5,7 @@
 - **Java/Spring** 기반의 백엔드 개발 경험과 **Python/AI**를 활용한 주도적인 문제 해결 경험을 모두 가지고 있습니다.
 - 주어진 과제를 해결하기 위해 새로운 기술을 탐색하고 적용하는 과정에서 즐거움을 느낍니다.
 
-
+<br>
 ---
 
 ### 🛠️ 기술 스택 (Tech Stack)
@@ -18,11 +18,14 @@
 | **Database** | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> |
 | **Infra/Tools** | <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"> |
 
+<br>
 ---
 
 ### 📚 학습 과정 (Learning Journey)
 - **KDT 기업맞춤형 AI-X 교육과정 (824시간)**: Python, Java 기반의 Full-Stack 개발 및 AI 모델링 학습 과정을 기록했습니다.
   - **<a href="https://github.com/cwal8202/ai_x">KDT 과정 전체 공부일지</a>**
+
+<br>
 
 ### 🚀 주요 프로젝트 (Featured Projects)
 <table>
