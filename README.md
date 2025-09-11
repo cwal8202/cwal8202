@@ -24,12 +24,12 @@
 
 ---
 
-### 📚 학습 과정 (Learning Journey)
+📚 학습 과정 (Learning Journey)
 - **KDT 기업맞춤형 AI-X 교육과정 (824시간)**: Python, Java 기반의 Full-Stack 개발 및 AI 모델링 학습 과정을 기록했습니다.
   - **<a href="https://github.com/cwal8202/ai_x">KDT 과정 전체 공부일지</a>**
 
 <br>
-### 🚀 주요 프로젝트 (Featured Projects)
+🚀 주요 프로젝트 (Featured Projects)
 <table>
   <tr>
     <td align="center">
