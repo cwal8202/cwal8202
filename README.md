@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Jang-Ho's%20Profile!&fontSize=70)
 
-### 👋 안녕하세요, 끊임없이 성장하는 개발자 최장호입니다.
+### 👋 안녕하세요, 백엔드 시스템을 구축하고 AI로 문제를 해결하는 개발자 최장호입니다.
 
-- **Java/Spring** 기반의 안정적인 백엔드 개발 경험과 **Python/AI**를 활용한 주도적인 문제 해결 경험을 모두 가지고 있습니다.
+- **Java/Spring** 기반의 백엔드 개발 경험과 **Python/AI**를 활용한 주도적인 문제 해결 경험을 모두 가지고 있습니다.
 - 주어진 과제를 해결하기 위해 새로운 기술을 탐색하고 적용하는 과정에서 즐거움을 느낍니다.
-- `Software Craftsmanship`을 지향하며, 단순히 동작하는 코드를 넘어 잘 만들어진 소프트웨어를 추구합니다.
 
 <br>
 
